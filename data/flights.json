@@ -1,0 +1,2124 @@
+{
+  "flights": [
+    {
+      "flightId": "SK527",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "LHR",
+      "toCity": "London",
+      "scheduleTime": "2026-10-26T06:35:00Z",
+      "statusGeneric": {
+        "english": "Departed"
+      },
+      "terminalId": "T2",
+      "gateId": "12"
+    },
+    {
+      "flightId": "SK527",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "LHR",
+      "fromCity": "London",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T08:45:00Z",
+      "statusGeneric": {
+        "english": "Landed"
+      },
+      "terminalId": "T2",
+      "gateId": "12"
+    },
+    {
+      "flightId": "SK881",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "OSL",
+      "toCity": "Oslo",
+      "scheduleTime": "2026-10-26T06:50:00Z",
+      "statusGeneric": {
+        "english": "Departed"
+      },
+      "terminalId": "T2",
+      "gateId": "5"
+    },
+    {
+      "flightId": "SK881",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "OSL",
+      "fromCity": "Oslo",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T09:00:00Z",
+      "statusGeneric": {
+        "english": "Landed"
+      },
+      "terminalId": "T2",
+      "gateId": "5"
+    },
+    {
+      "flightId": "SK1421",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "CPH",
+      "toCity": "Copenhagen",
+      "scheduleTime": "2026-10-26T07:05:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "8"
+    },
+    {
+      "flightId": "SK1421",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "CPH",
+      "fromCity": "Copenhagen",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T09:15:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "8"
+    },
+    {
+      "flightId": "AY712",
+      "airlineName": "Finnair",
+      "airlineIata": "AY",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "HEL",
+      "toCity": "Helsinki",
+      "scheduleTime": "2026-10-26T07:20:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "14"
+    },
+    {
+      "flightId": "AY712",
+      "airlineName": "Finnair",
+      "airlineIata": "AY",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "HEL",
+      "fromCity": "Helsinki",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T09:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "14"
+    },
+    {
+      "flightId": "KL1105",
+      "airlineName": "KLM",
+      "airlineIata": "KL",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "AMS",
+      "toCity": "Amsterdam",
+      "scheduleTime": "2026-10-26T07:45:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T2",
+      "gateId": "9",
+      "lateTime": "2026-10-26T08:30:00Z"
+    },
+    {
+      "flightId": "KL1105",
+      "airlineName": "KLM",
+      "airlineIata": "KL",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "AMS",
+      "fromCity": "Amsterdam",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T09:55:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T2",
+      "gateId": "9",
+      "lateTime": "2026-10-26T10:35:00Z"
+    },
+    {
+      "flightId": "LH2410",
+      "airlineName": "Lufthansa",
+      "airlineIata": "LH",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "FRA",
+      "toCity": "Frankfurt",
+      "scheduleTime": "2026-10-26T08:10:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T5",
+      "gateId": "16"
+    },
+    {
+      "flightId": "LH2410",
+      "airlineName": "Lufthansa",
+      "airlineIata": "LH",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "FRA",
+      "fromCity": "Frankfurt",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T10:20:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T5",
+      "gateId": "16"
+    },
+    {
+      "flightId": "SK8",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "LLA",
+      "toCity": "Luleå",
+      "scheduleTime": "2026-10-26T08:30:00Z",
+      "statusGeneric": {
+        "english": "Boarding"
+      },
+      "terminalId": "T4",
+      "gateId": "3"
+    },
+    {
+      "flightId": "SK8",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "LLA",
+      "fromCity": "Luleå",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T10:40:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T4",
+      "gateId": "3"
+    },
+    {
+      "flightId": "AF1263",
+      "airlineName": "Air France",
+      "airlineIata": "AF",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "CDG",
+      "toCity": "Paris",
+      "scheduleTime": "2026-10-26T08:55:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "11"
+    },
+    {
+      "flightId": "AF1263",
+      "airlineName": "Air France",
+      "airlineIata": "AF",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "CDG",
+      "fromCity": "Paris",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T11:05:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "11"
+    },
+    {
+      "flightId": "DY4410",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "LGW",
+      "toCity": "London",
+      "scheduleTime": "2026-10-26T09:15:00Z",
+      "statusGeneric": {
+        "english": "Cancelled"
+      },
+      "terminalId": "T5",
+      "gateId": "7"
+    },
+    {
+      "flightId": "DY4410",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "LGW",
+      "fromCity": "London",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T11:25:00Z",
+      "statusGeneric": {
+        "english": "Cancelled"
+      },
+      "terminalId": "T5",
+      "gateId": "7"
+    },
+    {
+      "flightId": "SK32",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "UME",
+      "toCity": "Umeå",
+      "scheduleTime": "2026-10-26T09:40:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T4",
+      "gateId": "4"
+    },
+    {
+      "flightId": "SK32",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "UME",
+      "fromCity": "Umeå",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T11:50:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T4",
+      "gateId": "4"
+    },
+    {
+      "flightId": "NH8606",
+      "airlineName": "ANA",
+      "airlineIata": "NH",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "HND",
+      "toCity": "Tokyo",
+      "scheduleTime": "2026-10-26T10:20:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T5",
+      "gateId": "1"
+    },
+    {
+      "flightId": "NH8606",
+      "airlineName": "ANA",
+      "airlineIata": "NH",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "HND",
+      "fromCity": "Tokyo",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T12:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T5",
+      "gateId": "1"
+    },
+    {
+      "flightId": "EK158",
+      "airlineName": "Emirates",
+      "airlineIata": "EK",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "DXB",
+      "toCity": "Dubai",
+      "scheduleTime": "2026-10-26T14:05:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T5",
+      "gateId": "2"
+    },
+    {
+      "flightId": "EK158",
+      "airlineName": "Emirates",
+      "airlineIata": "EK",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "DXB",
+      "fromCity": "Dubai",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T16:15:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T5",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK943",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "JFK",
+      "toCity": "New York",
+      "scheduleTime": "2026-10-26T15:30:00Z",
+      "statusGeneric": {
+        "english": "Check-in open"
+      },
+      "terminalId": "T5",
+      "gateId": "3"
+    },
+    {
+      "flightId": "SK943",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "JFK",
+      "fromCity": "New York",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T17:40:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T5",
+      "gateId": "3"
+    },
+    {
+      "flightId": "DY4409",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "ARN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "BCN",
+      "toCity": "Barcelona",
+      "scheduleTime": "2026-10-26T11:45:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T5",
+      "gateId": "8"
+    },
+    {
+      "flightId": "DY4409",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "ARN",
+      "fromId": "BCN",
+      "fromCity": "Barcelona",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T13:55:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T5",
+      "gateId": "8"
+    },
+    {
+      "flightId": "TF102",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "departures",
+      "airport": "BMA",
+      "fromId": "BMA",
+      "fromCity": "Stockholm",
+      "toId": "VBY",
+      "toCity": "Visby",
+      "scheduleTime": "2026-10-26T06:45:00Z",
+      "statusGeneric": {
+        "english": "Departed"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "TF102",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "arrivals",
+      "airport": "BMA",
+      "fromId": "VBY",
+      "fromCity": "Visby",
+      "toId": "BMA",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T08:55:00Z",
+      "statusGeneric": {
+        "english": "Landed"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "TF106",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "departures",
+      "airport": "BMA",
+      "fromId": "BMA",
+      "fromCity": "Stockholm",
+      "toId": "MMX",
+      "toCity": "Malmö",
+      "scheduleTime": "2026-10-26T07:20:00Z",
+      "statusGeneric": {
+        "english": "Boarding"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "TF106",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "arrivals",
+      "airport": "BMA",
+      "fromId": "MMX",
+      "fromCity": "Malmö",
+      "toId": "BMA",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T09:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "TF210",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "departures",
+      "airport": "BMA",
+      "fromId": "BMA",
+      "fromCity": "Stockholm",
+      "toId": "ÅRE",
+      "toCity": "Åre",
+      "scheduleTime": "2026-10-26T08:00:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "3"
+    },
+    {
+      "flightId": "TF210",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "arrivals",
+      "airport": "BMA",
+      "fromId": "ÅRE",
+      "fromCity": "Åre",
+      "toId": "BMA",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T10:10:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "3"
+    },
+    {
+      "flightId": "TF104",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "departures",
+      "airport": "BMA",
+      "fromId": "BMA",
+      "fromCity": "Stockholm",
+      "toId": "VBY",
+      "toCity": "Visby",
+      "scheduleTime": "2026-10-26T08:35:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "TF104",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "arrivals",
+      "airport": "BMA",
+      "fromId": "VBY",
+      "fromCity": "Visby",
+      "toId": "BMA",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T10:45:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "TF110",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "departures",
+      "airport": "BMA",
+      "fromId": "BMA",
+      "fromCity": "Stockholm",
+      "toId": "MMX",
+      "toCity": "Malmö",
+      "scheduleTime": "2026-10-26T09:10:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "TF110",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "arrivals",
+      "airport": "BMA",
+      "fromId": "MMX",
+      "fromCity": "Malmö",
+      "toId": "BMA",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T11:20:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "TF806",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "departures",
+      "airport": "BMA",
+      "fromId": "BMA",
+      "fromCity": "Stockholm",
+      "toId": "MHQ",
+      "toCity": "Mariehamn",
+      "scheduleTime": "2026-10-26T10:15:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "4"
+    },
+    {
+      "flightId": "TF806",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "arrivals",
+      "airport": "BMA",
+      "fromId": "MHQ",
+      "fromCity": "Mariehamn",
+      "toId": "BMA",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T12:25:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "4"
+    },
+    {
+      "flightId": "LH819",
+      "airlineName": "Lufthansa",
+      "airlineIata": "LH",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "FRA",
+      "toCity": "Frankfurt",
+      "scheduleTime": "2026-10-26T17:55:00Z",
+      "statusGeneric": {
+        "english": "Departed"
+      },
+      "terminalId": "T1",
+      "gateId": "15"
+    },
+    {
+      "flightId": "LH819",
+      "airlineName": "Lufthansa",
+      "airlineIata": "LH",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "FRA",
+      "fromCity": "Frankfurt",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T20:05:00Z",
+      "statusGeneric": {
+        "english": "Landed"
+      },
+      "terminalId": "T1",
+      "gateId": "15"
+    },
+    {
+      "flightId": "IB6253",
+      "airlineName": "Iberia",
+      "airlineIata": "IB",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "MAD",
+      "toCity": "Madrid",
+      "scheduleTime": "2026-10-26T18:20:00Z",
+      "statusGeneric": {
+        "english": "Boarding"
+      },
+      "terminalId": "T1",
+      "gateId": "8"
+    },
+    {
+      "flightId": "IB6253",
+      "airlineName": "Iberia",
+      "airlineIata": "IB",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "MAD",
+      "fromCity": "Madrid",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T20:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "8"
+    },
+    {
+      "flightId": "FR3188",
+      "airlineName": "Ryanair",
+      "airlineIata": "FR",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "BCN",
+      "toCity": "Barcelona",
+      "scheduleTime": "2026-10-26T19:40:00Z",
+      "statusGeneric": {
+        "english": "Check-in open"
+      },
+      "terminalId": "T2",
+      "gateId": "24"
+    },
+    {
+      "flightId": "FR3188",
+      "airlineName": "Ryanair",
+      "airlineIata": "FR",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "BCN",
+      "fromCity": "Barcelona",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T21:50:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "24"
+    },
+    {
+      "flightId": "AF1403",
+      "airlineName": "Air France",
+      "airlineIata": "AF",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "CDG",
+      "toCity": "Paris",
+      "scheduleTime": "2026-10-26T18:35:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T1",
+      "gateId": "6",
+      "lateTime": "2026-10-26T19:20:00Z"
+    },
+    {
+      "flightId": "AF1403",
+      "airlineName": "Air France",
+      "airlineIata": "AF",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "CDG",
+      "fromCity": "Paris",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T20:45:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T1",
+      "gateId": "6",
+      "lateTime": "2026-10-26T21:25:00Z"
+    },
+    {
+      "flightId": "KL1205",
+      "airlineName": "KLM",
+      "airlineIata": "KL",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "AMS",
+      "toCity": "Amsterdam",
+      "scheduleTime": "2026-10-26T16:10:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "11"
+    },
+    {
+      "flightId": "KL1205",
+      "airlineName": "KLM",
+      "airlineIata": "KL",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "AMS",
+      "fromCity": "Amsterdam",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T18:20:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "11"
+    },
+    {
+      "flightId": "BA777",
+      "airlineName": "British Airways",
+      "airlineIata": "BA",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "LHR",
+      "toCity": "London",
+      "scheduleTime": "2026-10-26T16:45:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "BA777",
+      "airlineName": "British Airways",
+      "airlineIata": "BA",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "LHR",
+      "fromCity": "London",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T18:55:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK949",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "OSL",
+      "toCity": "Oslo",
+      "scheduleTime": "2026-10-26T17:05:00Z",
+      "statusGeneric": {
+        "english": "Boarding"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK949",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "OSL",
+      "fromCity": "Oslo",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T19:15:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "AY714",
+      "airlineName": "Finnair",
+      "airlineIata": "AY",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "HEL",
+      "toCity": "Helsinki",
+      "scheduleTime": "2026-10-26T18:50:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "9"
+    },
+    {
+      "flightId": "AY714",
+      "airlineName": "Finnair",
+      "airlineIata": "AY",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "HEL",
+      "fromCity": "Helsinki",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T21:00:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "9"
+    },
+    {
+      "flightId": "LX4210",
+      "airlineName": "Swiss",
+      "airlineIata": "LX",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "ZRH",
+      "toCity": "Zurich",
+      "scheduleTime": "2026-10-26T20:15:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "12"
+    },
+    {
+      "flightId": "LX4210",
+      "airlineName": "Swiss",
+      "airlineIata": "LX",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "ZRH",
+      "fromCity": "Zurich",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T22:25:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "12"
+    },
+    {
+      "flightId": "SK95",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T17:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "3"
+    },
+    {
+      "flightId": "SK95",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T19:40:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "3"
+    },
+    {
+      "flightId": "DY3301",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "PRG",
+      "toCity": "Prague",
+      "scheduleTime": "2026-10-26T21:00:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "21"
+    },
+    {
+      "flightId": "DY3301",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "PRG",
+      "fromCity": "Prague",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T23:10:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "21"
+    },
+    {
+      "flightId": "DY3302",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "GOT",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "VBY",
+      "toCity": "Visby",
+      "scheduleTime": "2026-10-26T19:35:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "22"
+    },
+    {
+      "flightId": "DY3302",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "GOT",
+      "fromId": "VBY",
+      "fromCity": "Visby",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T21:45:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "22"
+    },
+    {
+      "flightId": "W61712",
+      "airlineName": "Wizz Air",
+      "airlineIata": "W",
+      "type": "departures",
+      "airport": "MMX",
+      "fromId": "MMX",
+      "fromCity": "Malmö",
+      "toId": "WAW",
+      "toCity": "Warsaw",
+      "scheduleTime": "2026-10-26T06:30:00Z",
+      "statusGeneric": {
+        "english": "Departed"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "W61712",
+      "airlineName": "Wizz Air",
+      "airlineIata": "W",
+      "type": "arrivals",
+      "airport": "MMX",
+      "fromId": "WAW",
+      "fromCity": "Warsaw",
+      "toId": "MMX",
+      "toCity": "Malmö",
+      "scheduleTime": "2026-10-26T08:40:00Z",
+      "statusGeneric": {
+        "english": "Landed"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "FR6823",
+      "airlineName": "Ryanair",
+      "airlineIata": "FR",
+      "type": "departures",
+      "airport": "MMX",
+      "fromId": "MMX",
+      "fromCity": "Malmö",
+      "toId": "STN",
+      "toCity": "London",
+      "scheduleTime": "2026-10-26T07:10:00Z",
+      "statusGeneric": {
+        "english": "Boarding"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "FR6823",
+      "airlineName": "Ryanair",
+      "airlineIata": "FR",
+      "type": "arrivals",
+      "airport": "MMX",
+      "fromId": "STN",
+      "fromCity": "London",
+      "toId": "MMX",
+      "toCity": "Malmö",
+      "scheduleTime": "2026-10-26T09:20:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "W61722",
+      "airlineName": "Wizz Air",
+      "airlineIata": "W",
+      "type": "departures",
+      "airport": "MMX",
+      "fromId": "MMX",
+      "fromCity": "Malmö",
+      "toId": "BUD",
+      "toCity": "Budapest",
+      "scheduleTime": "2026-10-26T07:50:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "3"
+    },
+    {
+      "flightId": "W61722",
+      "airlineName": "Wizz Air",
+      "airlineIata": "W",
+      "type": "arrivals",
+      "airport": "MMX",
+      "fromId": "BUD",
+      "fromCity": "Budapest",
+      "toId": "MMX",
+      "toCity": "Malmö",
+      "scheduleTime": "2026-10-26T10:00:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "3"
+    },
+    {
+      "flightId": "W61732",
+      "airlineName": "Wizz Air",
+      "airlineIata": "W",
+      "type": "departures",
+      "airport": "MMX",
+      "fromId": "MMX",
+      "fromCity": "Malmö",
+      "toId": "BEG",
+      "toCity": "Belgrade",
+      "scheduleTime": "2026-10-26T08:30:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T1",
+      "gateId": "1",
+      "lateTime": "2026-10-26T09:15:00Z"
+    },
+    {
+      "flightId": "W61732",
+      "airlineName": "Wizz Air",
+      "airlineIata": "W",
+      "type": "arrivals",
+      "airport": "MMX",
+      "fromId": "BEG",
+      "fromCity": "Belgrade",
+      "toId": "MMX",
+      "toCity": "Malmö",
+      "scheduleTime": "2026-10-26T10:40:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T1",
+      "gateId": "1",
+      "lateTime": "2026-10-26T11:20:00Z"
+    },
+    {
+      "flightId": "SK107",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "MMX",
+      "fromId": "MMX",
+      "fromCity": "Malmö",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T09:00:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "4"
+    },
+    {
+      "flightId": "SK107",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "MMX",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "MMX",
+      "toCity": "Malmö",
+      "scheduleTime": "2026-10-26T11:10:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T2",
+      "gateId": "4"
+    },
+    {
+      "flightId": "W61742",
+      "airlineName": "Wizz Air",
+      "airlineIata": "W",
+      "type": "departures",
+      "airport": "MMX",
+      "fromId": "MMX",
+      "fromCity": "Malmö",
+      "toId": "SOF",
+      "toCity": "Sofia",
+      "scheduleTime": "2026-10-26T09:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "W61742",
+      "airlineName": "Wizz Air",
+      "airlineIata": "W",
+      "type": "arrivals",
+      "airport": "MMX",
+      "fromId": "SOF",
+      "fromCity": "Sofia",
+      "toId": "MMX",
+      "toCity": "Malmö",
+      "scheduleTime": "2026-10-26T11:40:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "FR6825",
+      "airlineName": "Ryanair",
+      "airlineIata": "FR",
+      "type": "departures",
+      "airport": "MMX",
+      "fromId": "MMX",
+      "fromCity": "Malmö",
+      "toId": "BCN",
+      "toCity": "Barcelona",
+      "scheduleTime": "2026-10-26T11:20:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "5"
+    },
+    {
+      "flightId": "FR6825",
+      "airlineName": "Ryanair",
+      "airlineIata": "FR",
+      "type": "arrivals",
+      "airport": "MMX",
+      "fromId": "BCN",
+      "fromCity": "Barcelona",
+      "toId": "MMX",
+      "toCity": "Malmö",
+      "scheduleTime": "2026-10-26T13:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "5"
+    },
+    {
+      "flightId": "SK2021",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "UME",
+      "fromId": "UME",
+      "fromCity": "Umeå",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T07:00:00Z",
+      "statusGeneric": {
+        "english": "Departed"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK2021",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "UME",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "UME",
+      "toCity": "Umeå",
+      "scheduleTime": "2026-10-26T09:10:00Z",
+      "statusGeneric": {
+        "english": "Landed"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "DY4420",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "UME",
+      "fromId": "UME",
+      "fromCity": "Umeå",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T08:15:00Z",
+      "statusGeneric": {
+        "english": "Boarding"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "DY4420",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "UME",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "UME",
+      "toCity": "Umeå",
+      "scheduleTime": "2026-10-26T10:25:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK2023",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "UME",
+      "fromId": "UME",
+      "fromCity": "Umeå",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T09:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK2023",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "UME",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "UME",
+      "toCity": "Umeå",
+      "scheduleTime": "2026-10-26T11:40:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK2081",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "UME",
+      "fromId": "UME",
+      "fromCity": "Umeå",
+      "toId": "VBY",
+      "toCity": "Visby",
+      "scheduleTime": "2026-10-26T10:20:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T1",
+      "gateId": "3",
+      "lateTime": "2026-10-26T11:05:00Z"
+    },
+    {
+      "flightId": "SK2081",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "UME",
+      "fromId": "VBY",
+      "fromCity": "Visby",
+      "toId": "UME",
+      "toCity": "Umeå",
+      "scheduleTime": "2026-10-26T12:30:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T1",
+      "gateId": "3",
+      "lateTime": "2026-10-26T13:10:00Z"
+    },
+    {
+      "flightId": "DY4426",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "UME",
+      "fromId": "UME",
+      "fromCity": "Umeå",
+      "toId": "LLA",
+      "toCity": "Luleå",
+      "scheduleTime": "2026-10-26T11:05:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "DY4426",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "UME",
+      "fromId": "LLA",
+      "fromCity": "Luleå",
+      "toId": "UME",
+      "toCity": "Umeå",
+      "scheduleTime": "2026-10-26T13:15:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK6",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "LLA",
+      "fromId": "LLA",
+      "fromCity": "Luleå",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T07:10:00Z",
+      "statusGeneric": {
+        "english": "Departed"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK6",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "LLA",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "LLA",
+      "toCity": "Luleå",
+      "scheduleTime": "2026-10-26T09:20:00Z",
+      "statusGeneric": {
+        "english": "Landed"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "DY4404",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "LLA",
+      "fromId": "LLA",
+      "fromCity": "Luleå",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T08:30:00Z",
+      "statusGeneric": {
+        "english": "Boarding"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "DY4404",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "LLA",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "LLA",
+      "toCity": "Luleå",
+      "scheduleTime": "2026-10-26T10:40:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK8",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "LLA",
+      "fromId": "LLA",
+      "fromCity": "Luleå",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T09:45:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK8",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "LLA",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "LLA",
+      "toCity": "Luleå",
+      "scheduleTime": "2026-10-26T11:55:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK2085",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "LLA",
+      "fromId": "LLA",
+      "fromCity": "Luleå",
+      "toId": "KRN",
+      "toCity": "Kiruna",
+      "scheduleTime": "2026-10-26T10:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "4"
+    },
+    {
+      "flightId": "SK2085",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "LLA",
+      "fromId": "KRN",
+      "fromCity": "Kiruna",
+      "toId": "LLA",
+      "toCity": "Luleå",
+      "scheduleTime": "2026-10-26T12:40:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "4"
+    },
+    {
+      "flightId": "W61501",
+      "airlineName": "Wizz Air",
+      "airlineIata": "W",
+      "type": "departures",
+      "airport": "LLA",
+      "fromId": "LLA",
+      "fromCity": "Luleå",
+      "toId": "GDN",
+      "toCity": "Gdansk",
+      "scheduleTime": "2026-10-26T12:40:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "3"
+    },
+    {
+      "flightId": "W61501",
+      "airlineName": "Wizz Air",
+      "airlineIata": "W",
+      "type": "arrivals",
+      "airport": "LLA",
+      "fromId": "GDN",
+      "fromCity": "Gdansk",
+      "toId": "LLA",
+      "toCity": "Luleå",
+      "scheduleTime": "2026-10-26T14:50:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "3"
+    },
+    {
+      "flightId": "SK2086",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "KRN",
+      "fromId": "KRN",
+      "fromCity": "Kiruna",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T08:00:00Z",
+      "statusGeneric": {
+        "english": "Departed"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK2086",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "KRN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "KRN",
+      "toCity": "Kiruna",
+      "scheduleTime": "2026-10-26T10:10:00Z",
+      "statusGeneric": {
+        "english": "Landed"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK2087",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "KRN",
+      "fromId": "KRN",
+      "fromCity": "Kiruna",
+      "toId": "LLA",
+      "toCity": "Luleå",
+      "scheduleTime": "2026-10-26T09:20:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK2087",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "KRN",
+      "fromId": "LLA",
+      "fromCity": "Luleå",
+      "toId": "KRN",
+      "toCity": "Kiruna",
+      "scheduleTime": "2026-10-26T11:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "DY4412",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "KRN",
+      "fromId": "KRN",
+      "fromCity": "Kiruna",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T10:40:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T1",
+      "gateId": "1",
+      "lateTime": "2026-10-26T11:25:00Z"
+    },
+    {
+      "flightId": "DY4412",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "KRN",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "KRN",
+      "toCity": "Kiruna",
+      "scheduleTime": "2026-10-26T12:50:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T1",
+      "gateId": "1",
+      "lateTime": "2026-10-26T13:30:00Z"
+    },
+    {
+      "flightId": "SK2081",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "VBY",
+      "fromId": "VBY",
+      "fromCity": "Visby",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T07:15:00Z",
+      "statusGeneric": {
+        "english": "Departed"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK2081",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "VBY",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "VBY",
+      "toCity": "Visby",
+      "scheduleTime": "2026-10-26T09:25:00Z",
+      "statusGeneric": {
+        "english": "Landed"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "TF103",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "departures",
+      "airport": "VBY",
+      "fromId": "VBY",
+      "fromCity": "Visby",
+      "toId": "BMA",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T08:30:00Z",
+      "statusGeneric": {
+        "english": "Boarding"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "TF103",
+      "airlineName": "BRA",
+      "airlineIata": "TF",
+      "type": "arrivals",
+      "airport": "VBY",
+      "fromId": "BMA",
+      "fromCity": "Stockholm",
+      "toId": "VBY",
+      "toCity": "Visby",
+      "scheduleTime": "2026-10-26T10:40:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "DY3301",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "VBY",
+      "fromId": "VBY",
+      "fromCity": "Visby",
+      "toId": "GOT",
+      "toCity": "Gothenburg",
+      "scheduleTime": "2026-10-26T09:40:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T1",
+      "gateId": "3",
+      "lateTime": "2026-10-26T10:25:00Z"
+    },
+    {
+      "flightId": "DY3301",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "VBY",
+      "fromId": "GOT",
+      "fromCity": "Gothenburg",
+      "toId": "VBY",
+      "toCity": "Visby",
+      "scheduleTime": "2026-10-26T11:50:00Z",
+      "statusGeneric": {
+        "english": "Delayed"
+      },
+      "terminalId": "T1",
+      "gateId": "3",
+      "lateTime": "2026-10-26T12:30:00Z"
+    },
+    {
+      "flightId": "DY3310",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "VBY",
+      "fromId": "VBY",
+      "fromCity": "Visby",
+      "toId": "OSL",
+      "toCity": "Oslo",
+      "scheduleTime": "2026-10-26T11:55:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "3"
+    },
+    {
+      "flightId": "DY3310",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "VBY",
+      "fromId": "OSL",
+      "fromCity": "Oslo",
+      "toId": "VBY",
+      "toCity": "Visby",
+      "scheduleTime": "2026-10-26T14:05:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "3"
+    },
+    {
+      "flightId": "SK2061",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "OER",
+      "fromId": "OER",
+      "fromCity": "Örnsköldsvik",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T07:35:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK2061",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "OER",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "OER",
+      "toCity": "Örnsköldsvik",
+      "scheduleTime": "2026-10-26T09:45:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "DY4430",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "OER",
+      "fromId": "OER",
+      "fromCity": "Örnsköldsvik",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T12:10:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "DY4430",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "OER",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "OER",
+      "toCity": "Örnsköldsvik",
+      "scheduleTime": "2026-10-26T14:20:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK2065",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "OER",
+      "fromId": "OER",
+      "fromCity": "Örnsköldsvik",
+      "toId": "VBY",
+      "toCity": "Visby",
+      "scheduleTime": "2026-10-26T13:25:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK2065",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "OER",
+      "fromId": "VBY",
+      "fromCity": "Visby",
+      "toId": "OER",
+      "toCity": "Örnsköldsvik",
+      "scheduleTime": "2026-10-26T15:35:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK2071",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "RNB",
+      "fromId": "RNB",
+      "fromCity": "Ronneby",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T06:55:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK2071",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "RNB",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "RNB",
+      "toCity": "Ronneby",
+      "scheduleTime": "2026-10-26T09:05:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "DY4440",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "departures",
+      "airport": "RNB",
+      "fromId": "RNB",
+      "fromCity": "Ronneby",
+      "toId": "ARN",
+      "toCity": "Stockholm",
+      "scheduleTime": "2026-10-26T10:45:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "DY4440",
+      "airlineName": "Norwegian",
+      "airlineIata": "DY",
+      "type": "arrivals",
+      "airport": "RNB",
+      "fromId": "ARN",
+      "fromCity": "Stockholm",
+      "toId": "RNB",
+      "toCity": "Ronneby",
+      "scheduleTime": "2026-10-26T12:55:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "1"
+    },
+    {
+      "flightId": "SK2075",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "departures",
+      "airport": "RNB",
+      "fromId": "RNB",
+      "fromCity": "Ronneby",
+      "toId": "VBY",
+      "toCity": "Visby",
+      "scheduleTime": "2026-10-26T14:20:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    },
+    {
+      "flightId": "SK2075",
+      "airlineName": "SAS",
+      "airlineIata": "SK",
+      "type": "arrivals",
+      "airport": "RNB",
+      "fromId": "VBY",
+      "fromCity": "Visby",
+      "toId": "RNB",
+      "toCity": "Ronneby",
+      "scheduleTime": "2026-10-26T16:30:00Z",
+      "statusGeneric": {
+        "english": "Scheduled"
+      },
+      "terminalId": "T1",
+      "gateId": "2"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "Sweden": [
+    "Stockholm",
+    "Gothenburg",
+    "Malmö",
+    "Visby",
+    "Umeå",
+    "Luleå",
+    "Kiruna",
+    "Örnsköldsvik",
+    "Ronneby",
+    "Åre",
+    "Växjö",
+    "Sundsvall",
+    "Skellefteå",
+    "Jönköping",
+    "Ängelholm",
+    "Oskarshamn"
+  ],
+  "Norway": [
+    "Oslo",
+    "Bergen",
+    "Stavanger",
+    "Trondheim",
+    "Tromsø"
+  ],
+  "Denmark": [
+    "Copenhagen",
+    "Aarhus",
+    "Aalborg"
+  ],
+  "Finland": [
+    "Helsinki",
+    "Mariehamn",
+    "Rovaniemi",
+    "Oulu"
+  ],
+  "Faroe Islands": [
+    "Tórshavn"
+  ],
+  "Iceland": [
+    "Reykjavik"
+  ],
+  "United Kingdom": [
+    "London",
+    "Manchester",
+    "Edinburgh",
+    "Birmingham",
+    "Bristol",
+    "Liverpool",
+    "Leeds",
+    "Newcastle",
+    "Glasgow"
+  ],
+  "Ireland": [
+    "Dublin",
+    "Cork"
+  ],
+  "France": [
+    "Paris",
+    "Nice",
+    "Lyon",
+    "Marseille",
+    "Toulouse",
+    "Bordeaux"
+  ],
+  "Netherlands": [
+    "Amsterdam",
+    "Rotterdam",
+    "Eindhoven"
+  ],
+  "Belgium": [
+    "Brussels",
+    "Antwerp"
+  ],
+  "Luxembourg": [
+    "Luxembourg"
+  ],
+  "Germany": [
+    "Frankfurt",
+    "Berlin",
+    "Munich",
+    "Hamburg",
+    "Düsseldorf",
+    "Cologne",
+    "Stuttgart",
+    "Leipzig",
+    "Nuremberg",
+    "Dresden"
+  ],
+  "Switzerland": [
+    "Zurich",
+    "Geneva",
+    "Basel"
+  ],
+  "Austria": [
+    "Vienna",
+    "Salzburg",
+    "Innsbruck"
+  ],
+  "Spain": [
+    "Madrid",
+    "Barcelona",
+    "Malaga",
+    "Alicante",
+    "Palma de Mallorca",
+    "Las Palmas",
+    "Tenerife",
+    "Sevilla",
+    "Valencia",
+    "Bilbao",
+    "Lanzarote",
+    "Fuerteventura",
+    "Zaragoza"
+  ],
+  "Portugal": [
+    "Lisbon",
+    "Porto",
+    "Faro",
+    "Funchal"
+  ],
+  "Italy": [
+    "Rome",
+    "Milan",
+    "Venice",
+    "Naples",
+    "Florence",
+    "Bologna",
+    "Catania",
+    "Palermo",
+    "Bari",
+    "Pisa",
+    "Verona",
+    "Turin"
+  ],
+  "Greece": [
+    "Athens",
+    "Thessaloniki",
+    "Heraklion",
+    "Rhodes",
+    "Corfu",
+    "Chania",
+    "Kos",
+    "Santorini"
+  ],
+  "Cyprus": [
+    "Larnaca",
+    "Paphos"
+  ],
+  "Malta": [
+    "Malta"
+  ],
+  "Turkey": [
+    "Istanbul",
+    "Ankara",
+    "Antalya",
+    "Izmir",
+    "Bodrum"
+  ],
+  "Poland": [
+    "Warsaw",
+    "Gdansk",
+    "Krakow",
+    "Wroclaw",
+    "Poznan",
+    "Katowice"
+  ],
+  "Czech Republic": [
+    "Prague",
+    "Brno"
+  ],
+  "Slovakia": [
+    "Bratislava",
+    "Kosice"
+  ],
+  "Hungary": [
+    "Budapest",
+    "Debrecen"
+  ],
+  "Slovenia": [
+    "Ljubljana"
+  ],
+  "Croatia": [
+    "Zagreb",
+    "Split",
+    "Dubrovnik",
+    "Pula"
+  ],
+  "Serbia": [
+    "Belgrade",
+    "Nis"
+  ],
+  "Bosnia and Herzegovina": [
+    "Sarajevo"
+  ],
+  "North Macedonia": [
+    "Skopje"
+  ],
+  "Albania": [
+    "Tirana"
+  ],
+  "Kosovo": [
+    "Pristina"
+  ],
+  "Bulgaria": [
+    "Sofia",
+    "Varna",
+    "Burgas"
+  ],
+  "Romania": [
+    "Bucharest",
+    "Cluj-Napoca",
+    "Timisoara"
+  ],
+  "Estonia": [
+    "Tallinn"
+  ],
+  "Latvia": [
+    "Riga"
+  ],
+  "Lithuania": [
+    "Vilnius",
+    "Kaunas"
+  ],
+  "Georgia": [
+    "Tbilisi"
+  ],
+  "Armenia": [
+    "Yerevan"
+  ],
+  "Azerbaijan": [
+    "Baku"
+  ],
+  "Israel": [
+    "Tel Aviv"
+  ],
+  "Lebanon": [
+    "Beirut"
+  ],
+  "Jordan": [
+    "Amman"
+  ],
+  "United Arab Emirates": [
+    "Dubai",
+    "Abu Dhabi"
+  ],
+  "Qatar": [
+    "Doha"
+  ],
+  "Egypt": [
+    "Hurghada",
+    "Cairo",
+    "Marsa Alam"
+  ],
+  "Tunisia": [
+    "Tunis",
+    "Monastir",
+    "Djerba"
+  ],
+  "Morocco": [
+    "Marrakesh",
+    "Casablanca"
+  ],
+  "Gambia": [
+    "Banjul"
+  ],
+  "Kenya": [
+    "Nairobi"
+  ],
+  "Tanzania": [
+    "Zanzibar"
+  ],
+  "South Africa": [
+    "Johannesburg",
+    "Cape Town"
+  ],
+  "Thailand": [
+    "Bangkok",
+    "Phuket",
+    "Krabi"
+  ],
+  "Vietnam": [
+    "Hanoi"
+  ],
+  "India": [
+    "Delhi",
+    "Mumbai",
+    "Goa"
+  ],
+  "China": [
+    "Shanghai",
+    "Beijing",
+    "Hong Kong"
+  ],
+  "Japan": [
+    "Tokyo",
+    "Osaka"
+  ],
+  "South Korea": [
+    "Seoul"
+  ],
+  "United States": [
+    "New York",
+    "Miami",
+    "Los Angeles",
+    "Chicago",
+    "Boston",
+    "San Francisco",
+    "Orlando",
+    "Fort Lauderdale"
+  ],
+  "Canada": [
+    "Toronto",
+    "Montreal"
+  ],
+  "Mexico": [
+    "Cancun"
+  ]
+}

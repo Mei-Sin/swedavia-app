@@ -1,0 +1,5 @@
+# The app uses only the Python standard library.
+# The single exception: Windows does not ship the IANA timezone database,
+# which Python's zoneinfo needs. This tiny data package fixes that.
+# (On macOS and Linux nothing needs to be installed, but installing this is harmless.)
+tzdata>=2024.1
